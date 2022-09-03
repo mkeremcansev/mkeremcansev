@@ -1,2 +1,1 @@
-Hello, I'm Mustafa Kerem. I am a backend developer. The technologies I use are as follows;
-PHP, Laravel, CodeIgniter, MySQL, MongoDB, MSSQL, Queue, Cache, Javascript, VueJS, Python, C++, Lua, Shell
+Hello, I'm Mustafa Kerem. I am a backend developer. The technologies I use are; PHP, Laravel, CodeIgniter, MySQL, MongoDB, MSSQL, Queue, Cache, Javascript, VueJS, Python, C++, Lua, Shell. In general, I developed on E-Commerce projects. I've worked hard on the Cache and Queue system. I know about RabbitMQ and Elastic search structure.
