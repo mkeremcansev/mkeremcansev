@@ -1,3 +1,1 @@
-Merhaba, ben Mustafa Kerem Cansev. Back-end geliştiricisiyim. Kullandığım teknolojiler; PHP, Laravel, CodeIgniter, MySQL, MongoDB, MSSQL, Queue, OOP, Cache, Design Pattern, Javascript, jQuery, VueJS. Genel olarak E-Ticaret projeleri geliştirdim. Önbellek ve Kuyruk sistemi üzerinde çok çalıştım. RabbitMQ ve Elasticsearch yapılarını deneyimledim.
-
 Hello, I'm Mustafa Kerem Cansev. I am a backend developer. The technologies which I use are; PHP, Laravel, CodeIgniter, MySQL, MongoDB, MSSQL, Queue, OOP, Cache, Design Pattern, Javascript, jQuery, VueJS. In general, I developed E-Commerce projects. I've worked hard on the Cache and Queue system. I have experience about RabbitMQ and Elasticsearch structure.
