@@ -1,3 +1,21 @@
-Hello, I'm Mustafa Kerem Cansev. I am a backend developer. The technologies which I use are; PHP, Go, Laravel, CodeIgniter, MySQL, MongoDB, MSSQL, Queue, OOP, Cache, Design Pattern, Javascript, Typescript, jQuery, VueJS, React, Next, Angular. In general, I developed E-Commerce projects. I've worked hard on the Cache and Queue system. I have experience about RabbitMQ and Elasticsearch structure.
+I am a seasoned Backend Developer with extensive experience in building robust and scalable systems. My technical expertise spans a wide array of technologies, including:
 
-Some of the helper applications I use include Jira, Trello, ClickUp, Asana, Discord, Slack, Microsoft Teams, PHPStorm, VSCode, GoLand, Navicat, and Postman.
+- **Backend:** PHP, Laravel, CodeIgniter, Go
+- **Databases:** MySQL, MongoDB, MSSQL, PostgreSQL, SQLite
+- **Queue Systems:** RabbitMQ, Kafka
+- **Caching Mechanisms:** Redis, Elasticsearch, Memcached, Varnish, Cloudflare
+- **Design Patterns:** OOP, SOLID principles, and various architectural design patterns
+- **Frontend (Complementary):** JavaScript, TypeScript, jQuery, VueJS, React, Next.js, Angular
+
+### Key Strengths:
+- **Queue and Caching Systems:** I have in-depth experience optimizing and managing queue systems with RabbitMQ and caching strategies using Redis and Elasticsearch.
+- **Microservices & APIs:** I am proficient in designing and building RESTful APIs and microservices for scalable applications.
+
+### Tools & Applications:
+I am well-versed in a variety of tools and platforms to facilitate development, project management, and team collaboration, including:
+
+- **Project Management:** Jira, Trello, ClickUp, Asana
+- **Communication:** Discord, Slack, Microsoft Teams, Zoom, Google Meet, Skype
+- **Development Tools:** PHPStorm, VSCode, GoLand, Navicat, Postman, Insomnia, Git, GitHub, GitLab, Bitbucket, Docker
+
+With a passion for continuous learning and problem-solving, I thrive in challenging environments and always seek to deliver high-quality, maintainable code.
