@@ -9,7 +9,7 @@ I am a seasoned Backend Developer with extensive experience in building robust a
 
 ### Key Strengths:
 - **Queue and Caching Systems:** I have in-depth experience optimizing and managing queue systems with RabbitMQ and caching strategies using Redis and Elasticsearch.
-- **Microservices & APIs:** I am proficient in designing and building RESTful APIs and microservices for scalable applications.
+- **Microservices & APIs:** I am proficient in designing and building RESTFUL APIs and microservices for scalable applications.
 
 ### Tools & Applications:
 I am well-versed in a variety of tools and platforms to facilitate development, project management, and team collaboration, including:
