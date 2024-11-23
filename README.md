@@ -2,13 +2,13 @@ I am a seasoned Backend Developer with extensive experience in building robust a
 
 - **Backend:** PHP, Laravel, CodeIgniter, Go
 - **Databases:** MySQL, MongoDB, MSSQL, PostgreSQL, SQLite
-- **Queue Systems:** RabbitMQ, Kafka
-- **Caching Mechanisms:** Redis, Elasticsearch, Memcached, Varnish, Cloudflare
+- **Queue:** RabbitMQ, Kafka
+- **Caching:** Redis, Elasticsearch, Memcached, Varnish, Cloudflare
 - **Design Patterns:** OOP, SOLID principles, and various architectural design patterns
-- **Frontend (Complementary):** JavaScript, TypeScript, jQuery, VueJS, React, Next.js, Angular
+- **Frontend:** JavaScript, TypeScript, jQuery, VueJS, React, Next.js, Angular
 
 ### Key Strengths:
-- **Queue and Caching Systems:** I have in-depth experience optimizing and managing queue systems with RabbitMQ and caching strategies using Redis and Elasticsearch.
+- **Queue and Caching:** I have in-depth experience optimizing and managing queue systems with RabbitMQ and caching strategies using Redis and Elasticsearch.
 - **Microservices & APIs:** I am proficient in designing and building RESTFUL APIs and microservices for scalable applications.
 
 ### Tools & Applications:
